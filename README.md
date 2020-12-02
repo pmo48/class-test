@@ -1,28 +1,30 @@
-# this ![license](https://img.shields.io/github/license/pmo48/responsive-portfolio-pbm)
+# Pat's Project ![license](https://img.shields.io/github/license/pmo48/responsive-portfolio-pb)
     
 ## Table of Contents
 
- - [Description](##description)
- - [Installation](#installation)
- - [Usage](#usage)
- - [License](#license)
- - [Questions](#questions)
+    - [Description](#description)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [License](#license)
+    - [Contributing](#tests)
+    - [Tests](#tests)
+    - [Questions](#questions)
     
-## <a name="description"></a>Description
+## Description
     
-erog;ij
+it's a project
     
 ## Installation
     
-eoir
+on the web
     
 ## Usage
     
-oi
+it's used super easily
     
 ## License
 
-[gpl-3.0](https://choosealicense.com/licenses/gpl-3.0/)
+[mit](https://choosealicense.com/licenses/mit/)
     
 ## Contributing
     
@@ -30,15 +32,15 @@ If you would like to contribute it, please utilize The [Contributor Covenant](ht
     
 ## Tests
     
-noerger
+this is a test
     
 ## Questions
     
 ### What's your GitHub info?
     
-My GitHub username is pmo48 and my profile can be found at github.com
+My GitHub username is pmo48 and my profile can be found at github.com/pmo48
     
 ### What other contact info do you have?
     
-I can be contacted via email at pmoriarty@illumina.com if you have any additional questions.
+I can be contacted via email at pmoriarty100@gmail.com if you have any additional questions.
     
